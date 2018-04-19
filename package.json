@@ -1,0 +1,7 @@
+{
+  "name": "lvl-jarvis",
+  "version": "0.0.1",
+  "description": "J.A.R.V.I.S",
+  "main": "index.js",
+  "license": "MIT"
+}
